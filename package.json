@@ -1,0 +1,23 @@
+{
+  "name": "mlwithtf",
+  "version": "1.0.0",
+  "description": "Tests de machine learning avec TensorFlow",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esteban-santiago/MLTensorFlow.git"
+  },
+  "keywords": [
+    "machine-learning",
+    "tensor-flow"
+  ],
+  "author": "esteban.santiago@gmmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esteban-santiago/MLTensorFlow/issues"
+  },
+  "homepage": "https://github.com/esteban-santiago/MLTensorFlow#readme"
+}
